@@ -33,7 +33,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(289, 23)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Hello World!!"
+        Me.Label1.Text = "Hello World!! (2)"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'Button1
